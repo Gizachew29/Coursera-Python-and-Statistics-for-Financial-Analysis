@@ -1,2 +1,2 @@
 # Python-and-Statistics-for-Financial-Analysis
-Python and satisfaction for 
+Python and satisfaction for financial 
