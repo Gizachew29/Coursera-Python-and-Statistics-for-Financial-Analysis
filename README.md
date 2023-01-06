@@ -1,2 +1,4 @@
 # Python-and-Statistics-for-Financial-Analysis
-Python and satisfaction for financial analysis
+The best analysts at banks and hedge funds rely on more than Excel. Learn how to use Python, the fastest-growing programming language in the world, to process, analyze, and visualize financial data faster than ever.
+
+The best 
